@@ -1,2 +1,1 @@
-# rsschool-cv
-For Android course
+https://lispi.github.io/rsschool-cv/cv
