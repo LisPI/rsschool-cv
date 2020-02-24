@@ -9,3 +9,5 @@
     Understanding of SOLID principles;
 5. https://github.com/LisPI/AndroidNewStart
 6. https://play.google.com/store/apps/details?id=com.develop.lis.assistant
+7. I graduated from the University in 2016.
+8. English level - A2
